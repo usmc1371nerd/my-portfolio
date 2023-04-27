@@ -9,7 +9,7 @@ const Project = ({title,link,img,alt}) => {
 
  
    
-   <div className="project2">
+   <div className="projects">
     <motion.div 
   animate={{rotate: rotate ? 360 : 0 }}
     onHoverStart ={() => {setRotate(!rotate);

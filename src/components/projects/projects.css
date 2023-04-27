@@ -14,26 +14,18 @@ img {
     background: black;
     width: 100%;
     display: flex;
-    align-content: center;
     justify-content: center;
     border-top: 2px solid skyblue;
     border-bottom: 2px solid skyblue;
+    margin-top: -27px;
 }
 
 
 
 
-.project1 {
-    background: var(--color-borders);
-    border: 2px solid var(--color-bg-alt);
-    width: fit-content;
-    padding: 2.5rem;
-    border-radius: 2.5rem;
 
 
-}
-
-.project2 {
+.projects {
     background: var(--color-borders);
     border: 2px solid var(--color-bg-alt);
     width: fit-content;
@@ -42,12 +34,5 @@ img {
     
 }
 
-.project3 {
-    background: var(--color-borders);
-    border: 2px solid var(--color-bg-alt);
-    width: fit-content;
-    padding: 2.5rem;
-    border-radius: 2.5rem;
-    
-}
+
 
