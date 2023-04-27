@@ -1,0 +1,53 @@
+img {
+    height:10rem;
+    width:15rem;
+}
+
+.project__container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+}
+
+
+.project__title {
+    background: black;
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border-top: 2px solid skyblue;
+    border-bottom: 2px solid skyblue;
+}
+
+
+
+
+.project1 {
+    background: var(--color-borders);
+    border: 2px solid var(--color-bg-alt);
+    width: fit-content;
+    padding: 2.5rem;
+    border-radius: 2.5rem;
+
+
+}
+
+.project2 {
+    background: var(--color-borders);
+    border: 2px solid var(--color-bg-alt);
+    width: fit-content;
+    padding: 2.5rem;
+    border-radius: 2.5rem;
+    
+}
+
+.project3 {
+    background: var(--color-borders);
+    border: 2px solid var(--color-bg-alt);
+    width: fit-content;
+    padding: 2.5rem;
+    border-radius: 2.5rem;
+    
+}
+
