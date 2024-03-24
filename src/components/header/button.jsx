@@ -1,5 +1,5 @@
 import React from 'react'
-import Resume from '../../assets/Resume 2023.docx'
+import Resume from '../../assets/portfolio_resume.pdf'
 
 const button = () => {
   return (

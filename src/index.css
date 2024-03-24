@@ -52,7 +52,7 @@ section{
 }
 
 header{
-    height: 100vh;
+    height: 95vh;
 }
 /* ========Common Styles======== */
 
@@ -202,6 +202,10 @@ a:hover {
         width: var(--container-width-sm);
         
     }
+
+    .header{
+        height: 50vh;
+    }
     .scroll__down {
         display:none;
     }
@@ -218,6 +222,17 @@ a:hover {
        
     }
 
+.veteran h4 {
+    padding: 2.5rem;
+}
+    .veteran img {
+        width: auto;
+    }
+
+    #about {
+       
+        margin-top: -12rem;
+    }
     .about__container {
         display:flex;
         flex-direction: column;
@@ -252,8 +267,19 @@ a:hover {
 
 
     .header__container {
-        margin-left: 5%;
+        margin-left: 2.5%;
         align-items: center;
+       
+    }
+
+    .header__socials  {
+        display: inline-block;
+        margin-top: 5rem;
+        margin-left: 25vw;
+       
+    }
+    .header__socials  a {
+        margin: 1.5rem;
     }
 
 }

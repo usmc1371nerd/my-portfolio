@@ -2,13 +2,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    
 }
 
 .about{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 2.5rem;
+    
    
 
 }
@@ -18,6 +19,7 @@
     flex-direction: column ;
     align-items: center;
     width:50%;
+    margin-top: 5%;
   }
 
 .veteran {
@@ -33,4 +35,11 @@
     flex-direction: column;
     align-items: center;
 
+}
+
+.awards {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    width: fit-content;
 }
