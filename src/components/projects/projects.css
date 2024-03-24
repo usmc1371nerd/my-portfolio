@@ -9,7 +9,10 @@ img {
     margin-top: 2rem;
 }
 
-
+.projectTitle{
+    position: absolute;
+    margin-left: 6%;
+}
 .project__title {
     background: black;
     width: 100%;
