@@ -1,7 +1,6 @@
 import React from 'react'
 import './projects.css'
 
-import GlassPanda from '../../assets/glass-panda.png'
 import Pinelog from '../../assets/pinelog.png'
 import Shooter from '../../assets/shooter.png'
 import Github from '../../assets/Github.png'
@@ -25,7 +24,6 @@ const Projects = () => {
   
    <a href='https://pinelogcommunitychurch.com' title="PineLog" ><img src={Pinelog} className='pinelog' alt="pinelog-img"/><div className="projectTitle">Pinelog</div></a>
    <a href='https://github.com/usmc1371nerd/shootingnotes.github.io' title="Github repo" ><img src={Shooter} className='shooter' alt="shooter-img"/><div className="projectTitle">Github Repo</div></a>
-   <a href='https://glasspandaeats.com' title="GlassPanda" ><img src={GlassPanda} className='glasspanda' alt="glass-panda"/><div className="projectTitle">Glass Panda</div></a>
    <a href='https://grizzlybearmaintenance.com/' title="Grizzly Bear" ><img src={GrizzlyBear} className='grizzlybear' alt="grizzly-bear"/><div className="projectTitle">Grizzly Bear</div></a>
    
    
