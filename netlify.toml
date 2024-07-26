@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://jpsportfolio.com"
+  status = 301
